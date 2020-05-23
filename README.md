@@ -1,3 +1,2 @@
 # git
-Testing pb with github
-wow amazing
+Testing PowerBuilder with github
